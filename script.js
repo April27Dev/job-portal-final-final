@@ -14,3 +14,4 @@ Array.from(bookmark).forEach(v => v.addEventListener('click', function () {
         el.innerText = "Save Job"
     }
 }));
+
